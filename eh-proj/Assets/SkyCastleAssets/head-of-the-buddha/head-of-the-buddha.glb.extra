@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "4ac483c2-4223-fdf9-6269-885772e56ffa",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "head-of-the-buddha",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "importAnimation": true,
+    "importVertexColor": true,
+    "importBlendshape": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "materialsGUIDs": [
+      "730b325b-88fd-c477-02be-fb859ff0420b"
+    ],
+    "meshGUIDs": [
+      "f5ced50b-ac9e-e730-94af-4873addc581e"
+    ],
+    "animazGUIDs": []
+  }
+]

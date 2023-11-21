@@ -1,0 +1,23 @@
+[
+  {
+    "guid": {
+      "a": "ec9ff6cf-8c59-e143-1d53-80c84424c26b",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Cloud_Mat",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4945726593700840757, 18381074728100613766)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "db3b0019-24e6-17c8-825f-01e7661e0632"
+      }
+    ]
+  }
+]

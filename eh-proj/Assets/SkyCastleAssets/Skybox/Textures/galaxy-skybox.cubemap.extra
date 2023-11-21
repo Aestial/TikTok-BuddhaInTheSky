@@ -1,0 +1,20 @@
+[
+  {
+    "guid": {
+      "a": "508ad139-dc40-b479-f048-e68641089bcf",
+      "b": ""
+    },
+    "extraType": "ResItemCubemap",
+    "name": "galaxy-skybox",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "TextureCube",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": true,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0
+  }
+]

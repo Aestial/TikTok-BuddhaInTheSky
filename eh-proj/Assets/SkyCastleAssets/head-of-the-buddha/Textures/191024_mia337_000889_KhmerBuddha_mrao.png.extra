@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "2a7ab93c-6007-e350-7f97-5a11fe44bfdb",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "191024_mia337_000889_KhmerBuddha_mrao",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": true,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 2,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]

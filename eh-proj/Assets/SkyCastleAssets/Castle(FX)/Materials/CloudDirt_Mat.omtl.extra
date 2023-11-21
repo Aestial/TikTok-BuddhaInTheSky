@@ -1,0 +1,23 @@
+[
+  {
+    "guid": {
+      "a": "a963e370-2c6e-c8ab-101d-ae6139c49b16",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "CloudDirt_Mat",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4886238666930200373, 16753747633538035092)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "53b1d7de-67db-c9e2-9be8-552876ac80ca"
+      }
+    ]
+  }
+]

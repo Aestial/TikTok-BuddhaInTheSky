@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "6824538a-c255-92b1-dad5-a8f76105462a",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "SegmentationTextures",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

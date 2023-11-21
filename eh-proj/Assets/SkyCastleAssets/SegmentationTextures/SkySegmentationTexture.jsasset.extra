@@ -1,0 +1,24 @@
+[
+  {
+    "guid": {
+      "a": "bd0d58c9-389c-0b7b-22db-be35e2a6c50a",
+      "b": ""
+    },
+    "extraType": "ResItemSegmentationAsset",
+    "name": "SkySegmentationTexture",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "type": "texture",
+    "subtype": "segmentation",
+    "propertyMap": [
+      {
+        "name": "cutoutTexture",
+        "guid": "00000000-0000-0000-0000-00000000004b"
+      }
+    ]
+  }
+]

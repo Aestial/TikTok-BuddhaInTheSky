@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "1aa1403b-c58a-3f36-1467-f213452d3c10",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Skybox",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

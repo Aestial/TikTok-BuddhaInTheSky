@@ -1,0 +1,23 @@
+[
+  {
+    "guid": {
+      "a": "28fbea93-af15-8664-b2e8-c321af0d0f20",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Skybox_Mat",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5675104561734193951, 2500998566595719852)",
+    "references": [
+      {
+        "propertyName": "_BaseCubemap",
+        "guid": "508ad139-dc40-b479-f048-e68641089bcf"
+      }
+    ]
+  }
+]

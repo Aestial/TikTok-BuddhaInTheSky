@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "40223828-8114-9b46-abef-5a7277e72e1a",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "head-of-the-buddha",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]
