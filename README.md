@@ -4,7 +4,7 @@
 
 ## Result
 
-![Effect final result](./Output/Buddha-Head-In-Sky.jpg)
+![Effect final result](output/Buddha-Head-In-Sky.jpg)
 
 ## Content
 
